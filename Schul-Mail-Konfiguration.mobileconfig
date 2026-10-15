@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>EmailAccountDescription</key>
+			<string>Schul-Mail</string>
+			<key>EmailAccountType</key>
+			<string>EmailTypeIMAP</string>
+			<key>IncomingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>IncomingMailServerHostName</key>
+			<string>imaps.brecht-schule.hamburg</string>
+			<key>IncomingMailServerPortNumber</key>
+			<integer>993</integer>
+			<key>IncomingMailServerUseSSL</key>
+			<true/>
+			<key>OutgoingMailServerAuthentication</key>
+			<string>EmailAuthPassword</string>
+			<key>OutgoingMailServerHostName</key>
+			<string>submissions.brecht-schule.hamburg</string>
+			<key>OutgoingMailServerPortNumber</key>
+			<integer>465</integer>
+			<key>OutgoingMailServerUseSSL</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Mail</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mail.managed.45dd9803-e406-482b-8084-10261490c2f1</string>
+			<key>PayloadType</key>
+			<string>com.apple.mail.managed</string>
+			<key>PayloadUUID</key>
+			<string>45dd9803-e406-482b-8084-10261490c2f1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Schul-Mail-Konfiguration</string>
+	<key>PayloadIdentifier</key>
+	<string>de.brechtschule.mailconfig</string>
+	<key>PayloadOrganization</key>
+	<string>Brecht-Schule Hamburg</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5d1dd65d-0823-45ee-8541-c5d7cb7dc1fc</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>1</integer>
+</dict>
+</plist>
